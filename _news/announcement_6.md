@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received the Feder Family Award for Best Student Work in Communications.
+Received the Feder Family Award for Best Student Work in Communications, for [Compact Routing Schemes in Undirected and Directed Graphs](/papers/).
