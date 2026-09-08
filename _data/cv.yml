@@ -10,28 +10,29 @@
     - name: Homepage
       value: https://avika81.github.io/
 
+- title: Profile
+  type: list
+  contents:
+    - "PhD student at Bar-Ilan University, advised by Liam Roditty, working on algorithms for distance-related graph problems: distance oracles, girth and shortest cycle approximation, compact routing, and diameter. Began the BSc during high school and published at SODA during the MSc. Former IDF officer with five years in Unit 8200 as an R&D engineer, a recruiter for its elite tracks, and the founding lead of a new cyber R&D team; discharged in 2024 and now researching full-time."
+
 - title: Education
   type: time_table
   contents:
     - title: PhD in Computer Science
       institution: Bar-Ilan University, Ramat Gan, Israel
-      year: 2023 - Present
+      year: Oct 2023 - Present
       description:
         - "Distance-related graph problems: distance oracles, girth, diameter, routing, and fine-grained complexity."
-        - "Recipient of the Clore Scholarship for exceptional PhD students."
-        - "Recipient of the Feder Family Award for Best Student Work in Communications."
-        - "Recipient of the Rector's Award for Outstanding Students."
     - title: MSc in Computer Science
       institution: Bar-Ilan University, Ramat Gan, Israel
-      year: 2017 - 2023
+      year: Oct 2017 - Mar 2023
       description:
         - "Researched girth approximation; published and presented two papers at SODA'22 and SODA'23."
         - "Collaborated with leading global experts on distance-related problems."
-        - "Recipient of the Nadav Scholarship for exceptional research, as the sole master's student selected."
         - "Started during the third year of the BSc, while serving as a full-time IDF officer for most of the degree."
     - title: BSc in Computer Science and Pure Mathematics
       institution: Bar-Ilan University, Ramat Gan, Israel
-      year: 2015 - 2018
+      year: Jul 2015 - Aug 2018
       description:
         - "Graduated with honors at the age of 17, studying in parallel with high school."
 
@@ -42,7 +43,7 @@
     - 'Avi Kadria, Liam Roditty, Virginia Vassilevska Williams. "Tighter Bounds for Weighted and Unweighted Shortest Cycle Approximation." ESA 2026.'
     - 'Avi Kadria, Liam Roditty. "Faster Algorithms for (2k-1)-Stretch Distance Oracles." ICALP 2026.'
     - 'Avi Kadria, Liam Roditty. "New Approximate Distance Oracles and Their Applications." ISAAC 2025. Best Paper Award.'
-    - 'Avi Kadria, Liam Roditty. "Compact Routing Schemes in Undirected and Directed Graphs." DISC 2025.'
+    - 'Avi Kadria, Liam Roditty. "Compact Routing Schemes in Undirected and Directed Graphs." DISC 2025. Feder Family Award.'
     - 'Avi Kadria, Liam Roditty, Aaron Sidford, Virginia Vassilevska Williams, Uri Zwick. "Improved Girth Approximation in Weighted Undirected Graphs." SODA 2023. Accepted to SICOMP 2026.'
     - 'Avi Kadria, Liam Roditty, Aaron Sidford, Virginia Vassilevska Williams, Uri Zwick. "Algorithmic Trade-offs for Girth Approximation in Undirected Graphs." SODA 2022.'
 
@@ -51,7 +52,7 @@
   contents:
     - title: Cyber R&D Team Lead
       institution: Unit 8200, IDF, Tel Aviv, Israel
-      year: 2022 - 2024
+      year: May 2022 - May 2024
       description:
         - "Formed a new team of cyber R&D developers to solve crucial problems at the core of the unit's operations."
         - "Multidisciplinary team at the cyber-security and intelligence interface; worked in Python, C, ASM, HTML/JS, and SQL."
@@ -59,13 +60,13 @@
         - "Led numerous cross-team projects, managing timelines, coordinating tasks, and ensuring successful delivery."
     - title: Recruitment Officer for ARAM, GA'ASH, and ARAZIM
       institution: Unit 8200, IDF, Tel Aviv, Israel
-      year: 2021 - 2022
+      year: Aug 2021 - May 2022
       description:
         - "Conducted over 500 interviews with all relevant applicants."
         - "Oversaw and redesigned the entire recruitment process for the most elite tracks of Unit 8200."
     - title: R&D Engineer
       institution: Unit 8200, IDF, Tel Aviv, Israel
-      year: 2019 - 2021
+      year: Feb 2019 - Aug 2021
       description:
         - "Practical cyber-security operations in Windows-based environments; worked mainly in Python and C++."
         - "Complex networks and cyber security within large organizations."
@@ -76,7 +77,7 @@
   contents:
     - title: Algorithms Engineer
       institution: D.S.E, U.S.A
-      year: 2018 - 2019
+      year: May 2018 - Feb 2019
       description:
         - "Applied linear programming to develop and optimize employee scheduling algorithms."
         - "Collaborated with multi-country teams and managed timelines to ensure project success."
@@ -90,7 +91,7 @@
     - title: Feder Family Award
       year: 2026
       description:
-        - "For Best Student Work in Communications."
+        - 'For Best Student Work in Communications, for "Compact Routing Schemes in Undirected and Directed Graphs."'
     - title: Clore Scholarship
       year: 2025
       description:
@@ -102,12 +103,14 @@
     - title: President Scholarship
       year: 2024
       institution: Bar-Ilan University
-    - title: 3rd place, Bughouse World Championship
-      year: 2022
-      institution: Germany
     - title: Nadav Scholarship
       year: 2022
       institution: Bar-Ilan University
+      description:
+        - "For exceptional research, as the sole master's student selected."
+    - title: 3rd place, Bughouse World Championship
+      year: 2022
+      institution: Germany
     - title: IMO- and IOI-trial Olympiad Excellence
       year: 2018
       institution: Israel
@@ -132,14 +135,10 @@
       items:
         - "Python, C, C++, Rust, ASM"
         - "Passable in Java, C#, HTML, JS, SQL, MATLAB"
-    - title: Tools
+    - title: Miscellaneous
       items:
         - "Git, bash, Docker, LaTeX"
+        - "Hebrew (native), English (fluent), French (passable)"
     - title: Interests
       items:
         - "Reading, video games, chess, bughouse, salsa dancing, Dungeons & Dragons"
-
-- title: Languages
-  type: list
-  contents:
-    - "Hebrew (native), English (fluent), French (passable)."
