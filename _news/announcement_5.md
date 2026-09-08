@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Honored to receive the [Clore Scholarship](https://www.clorescholars.org.il/) for exceptional PhD students.
+Honored to receive the Clore Scholarship for exceptional PhD students.

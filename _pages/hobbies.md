@@ -18,5 +18,4 @@ chess summer camps in Tel Aviv.
 
 # Other things I enjoy
 
-- **Reading** - mostly science fiction and fantasy.
-- **Video games** - strategy and puzzle games above all.
+Reading and video games.
