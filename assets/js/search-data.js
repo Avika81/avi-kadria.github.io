@@ -30,8 +30,17 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/hobbies/";
           },
-        },{id: "news-new-approximate-distance-oracles-and-their-applications-won-the-best-paper-award-at-isaac-2025",
+        },{id: "news-honored-to-receive-the-clore-scholarship-for-exceptional-phd-students",
+          title: 'Honored to receive the Clore Scholarship for exceptional PhD students.',
+          description: "",
+          section: "News",},{id: "news-new-approximate-distance-oracles-and-their-applications-won-the-best-paper-award-at-isaac-2025",
           title: '‘New Approximate Distance Oracles and Their Applications’ won the Best Paper Award at...',
+          description: "",
+          section: "News",},{id: "news-received-the-feder-family-award-for-best-student-work-in-communications",
+          title: 'Received the Feder Family Award for Best Student Work in Communications.',
+          description: "",
+          section: "News",},{id: "news-received-the-rector-s-award-for-outstanding-students-at-bar-ilan-university",
+          title: 'Received the Rector’s Award for Outstanding Students at Bar-Ilan University.',
           description: "",
           section: "News",},{
       id: 'light-theme',
