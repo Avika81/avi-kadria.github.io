@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://avi-kadria.github.io/sitemap.xml
+Sitemap: https://avika81.github.io/sitemap.xml
