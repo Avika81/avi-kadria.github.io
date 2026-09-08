@@ -25,7 +25,7 @@ announcements:
 #   limit: 3
 ---
 
-I'm a PhD student in computer science at Bar-Ilan University, advised by `<UNKNOWN>`.
+I'm a PhD student in computer science at Bar-Ilan University, advised by [Liam Roditty](https://u.cs.biu.ac.il/~rodittl/).
 My research is on distance-related problems in graphs: distance oracles, girth and shortest
 cycle approximation, compact routing schemes, diameter, and the fine-grained complexity
 behind all of them.
