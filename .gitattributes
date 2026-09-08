@@ -1,2 +1,61 @@
-# Force LF line endings, needed for Docker to work on Windows
-*.sh text eol=lf
+# -----------------------------------------------------------------------------
+# Cross-platform line-ending policy (Windows + WSL/Linux share this checkout)
+# -----------------------------------------------------------------------------
+# Normalize everything to LF in the repository AND in the working tree.
+# LF in the working tree is required because:
+#   - the Dockerfile / shell scripts break under Docker if checked out CRLF
+#   - the same directory is edited from both Windows and WSL
+* text=auto eol=lf
+
+# -----------------------------------------------------------------------------
+# Explicitly text (LF) — scripts and config that must never gain CRs
+# -----------------------------------------------------------------------------
+*.sh         text eol=lf
+*.rb         text eol=lf
+*.yml        text eol=lf
+*.yaml       text eol=lf
+*.json       text eol=lf
+*.md         text eol=lf
+*.liquid     text eol=lf
+*.html       text eol=lf
+*.scss       text eol=lf
+*.css        text eol=lf
+*.js         text eol=lf
+*.bib        text eol=lf
+*.txt        text eol=lf
+*.svg        text eol=lf
+Dockerfile   text eol=lf
+Gemfile      text eol=lf
+Gemfile.lock text eol=lf
+LICENSE      text eol=lf
+bin/cibuild  text eol=lf
+bin/deploy   text eol=lf
+
+# -----------------------------------------------------------------------------
+# Binary — never touch line endings, never diff as text
+# -----------------------------------------------------------------------------
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.webp  binary
+*.pdf   binary
+*.mp4   binary
+*.mp3   binary
+*.wav   binary
+*.ttf   binary
+*.otf   binary
+*.woff  binary
+*.woff2 binary
+*.eot   binary
+*.zip   binary
+*.gz    binary
+
+# -----------------------------------------------------------------------------
+# Generated / vendored — keep out of diffs and language stats
+# -----------------------------------------------------------------------------
+*.map              -diff linguist-generated
+Gemfile.lock       -diff
+package-lock.json  -diff linguist-generated
+assets/js/*.min.js linguist-vendored
