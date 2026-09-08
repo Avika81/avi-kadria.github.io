@@ -4,15 +4,15 @@
 
 title: Avi Kadria # the website title (if blank, full name will be used instead)
 first_name: Avi
-middle_name: 
+middle_name:
 last_name: Kadria
 contact_note: >
-  
+
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Avi Kadria's Academic Homepage
 footer_text: >
-  
-keywords: 
+
+keywords:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -142,9 +142,9 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-   books:
-     output: true
-   news:
+  books:
+    output: true
+  news:
     defaults:
       layout: post
     output: true
@@ -655,5 +655,3 @@ jsonresume:
   - languages
   - interests
   - references
-
-

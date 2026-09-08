@@ -38,19 +38,19 @@
 - title: Publications
   type: list
   contents:
-    - "Avi Kadria, Liam Roditty, Virginia Vassilevska Williams. \"Improved Approximation Algorithms for n-Pairs Shortest Paths.\" ESA 2026."
-    - "Avi Kadria, Liam Roditty, Virginia Vassilevska Williams. \"Tighter Bounds for Weighted and Unweighted Shortest Cycle Approximation.\" ESA 2026."
-    - "Avi Kadria, Liam Roditty. \"Faster Algorithms for (2k-1)-Stretch Distance Oracles.\" ICALP 2026."
-    - "Avi Kadria, Liam Roditty. \"New Approximate Distance Oracles and Their Applications.\" ISAAC 2025. Best Paper Award."
-    - "Avi Kadria, Liam Roditty. \"Compact Routing Schemes in Undirected and Directed Graphs.\" DISC 2025."
-    - "Avi Kadria, Liam Roditty, Aaron Sidford, Virginia Vassilevska Williams, Uri Zwick. \"Improved Girth Approximation in Weighted Undirected Graphs.\" SODA 2023. Accepted to SICOMP 2026."
-    - "Avi Kadria, Liam Roditty, Aaron Sidford, Virginia Vassilevska Williams, Uri Zwick. \"Algorithmic Trade-offs for Girth Approximation in Undirected Graphs.\" SODA 2022."
+    - 'Avi Kadria, Liam Roditty, Virginia Vassilevska Williams. "Improved Approximation Algorithms for n-Pairs Shortest Paths." ESA 2026.'
+    - 'Avi Kadria, Liam Roditty, Virginia Vassilevska Williams. "Tighter Bounds for Weighted and Unweighted Shortest Cycle Approximation." ESA 2026.'
+    - 'Avi Kadria, Liam Roditty. "Faster Algorithms for (2k-1)-Stretch Distance Oracles." ICALP 2026.'
+    - 'Avi Kadria, Liam Roditty. "New Approximate Distance Oracles and Their Applications." ISAAC 2025. Best Paper Award.'
+    - 'Avi Kadria, Liam Roditty. "Compact Routing Schemes in Undirected and Directed Graphs." DISC 2025.'
+    - 'Avi Kadria, Liam Roditty, Aaron Sidford, Virginia Vassilevska Williams, Uri Zwick. "Improved Girth Approximation in Weighted Undirected Graphs." SODA 2023. Accepted to SICOMP 2026.'
+    - 'Avi Kadria, Liam Roditty, Aaron Sidford, Virginia Vassilevska Williams, Uri Zwick. "Algorithmic Trade-offs for Girth Approximation in Undirected Graphs." SODA 2022.'
 
 - title: Talks
   type: list
   contents:
-    - "\"Improved Girth Approximation in Weighted Undirected Graphs.\" SODA 2023, Florence, Italy."
-    - "\"Algorithmic Trade-offs for Girth Approximation in Undirected Graphs.\" SODA 2022, virtual."
+    - '"Improved Girth Approximation in Weighted Undirected Graphs." SODA 2023, Florence, Italy.'
+    - '"Algorithmic Trade-offs for Girth Approximation in Undirected Graphs." SODA 2022, virtual.'
 
 - title: Military Service
   type: time_table
@@ -102,7 +102,7 @@
     - title: Best Paper Award, ISAAC 2025
       year: 2025
       description:
-        - "For \"New Approximate Distance Oracles and Their Applications.\""
+        - 'For "New Approximate Distance Oracles and Their Applications."'
     - title: President Scholarship
       year: 2024
       institution: Bar-Ilan University
