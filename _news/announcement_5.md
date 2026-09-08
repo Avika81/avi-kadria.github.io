@@ -1,7 +1,6 @@
 ---
 layout: post
-# date: <UNKNOWN> - fill in the real date, then delete the `published: false` line
-published: false
+date: 2025-01-01 12:00:00+0200
 inline: true
 related_posts: false
 ---
