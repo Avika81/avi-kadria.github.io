@@ -46,12 +46,6 @@
     - 'Avi Kadria, Liam Roditty, Aaron Sidford, Virginia Vassilevska Williams, Uri Zwick. "Improved Girth Approximation in Weighted Undirected Graphs." SODA 2023. Accepted to SICOMP 2026.'
     - 'Avi Kadria, Liam Roditty, Aaron Sidford, Virginia Vassilevska Williams, Uri Zwick. "Algorithmic Trade-offs for Girth Approximation in Undirected Graphs." SODA 2022.'
 
-- title: Talks
-  type: list
-  contents:
-    - '"Improved Girth Approximation in Weighted Undirected Graphs." SODA 2023, Florence, Italy.'
-    - '"Algorithmic Trade-offs for Girth Approximation in Undirected Graphs." SODA 2022, virtual.'
-
 - title: Military Service
   type: time_table
   contents:
@@ -143,7 +137,7 @@
         - "Git, bash, Docker, LaTeX"
     - title: Interests
       items:
-        - "Reading, video games, chess, bughouse"
+        - "Reading, video games, chess, bughouse, salsa dancing, Dungeons & Dragons"
 
 - title: Languages
   type: list
