@@ -42,6 +42,12 @@ ninja.data = [{
           section: "News",},{id: "news-received-the-rector-s-award-for-outstanding-students-at-bar-ilan-university",
           title: 'Received the Rector’s Award for Outstanding Students at Bar-Ilan University.',
           description: "",
+          section: "News",},{id: "news-faster-algorithms-for-2k-1-stretch-distance-oracles-was-accepted-to-icalp-2026",
+          title: '‘Faster Algorithms for (2k-1)-Stretch Distance Oracles’ was accepted to ICALP 2026.',
+          description: "",
+          section: "News",},{id: "news-two-papers-accepted-to-esa-2026-in-l-aquila",
+          title: 'Two papers accepted to ESA 2026 in L’Aquila!',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
