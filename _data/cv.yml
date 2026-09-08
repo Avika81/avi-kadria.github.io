@@ -90,16 +90,14 @@
 - title: Awards
   type: time_table
   contents:
+    # TODO: the CV lists these three without dates - add `year:` when you know them
     - title: Clore Scholarship
-      year: 2025
       description:
         - "Awarded to exceptional PhD students in Israel."
     - title: Feder Family Award
-      year: 2025
       description:
         - "For Best Student Work in Communications."
     - title: Rector's Award for Outstanding Students
-      year: 2025
       institution: Bar-Ilan University
     - title: Best Paper Award, ISAAC 2025
       year: 2025
