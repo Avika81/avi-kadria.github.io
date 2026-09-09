@@ -25,12 +25,12 @@ announcements:
 ---
 
 I'm a PhD student in computer science at Bar-Ilan University, advised by [Liam Roditty](https://u.cs.biu.ac.il/~rodittl/).
-My research is on distance-related problems in graphs: distance oracles, girth and shortest
+My research mainly focuses on distance-related graph algorithms problems: distance oracles, girth and shortest
 cycle approximation, compact routing schemes, diameter, and the fine-grained complexity
 behind all of them.
 
 Before the PhD I finished a BSc in computer science and pure mathematics at Bar-Ilan
 (with honors, at the age of 17) and an MSc, publishing at SODA'22 and SODA'23. In parallel I served for five years in the IDF's Unit 8200, first as an R&D
 engineer, then as a recruitment officer for its elite tracks, and finally as the founding
-lead of a new cyber R&D team. I was discharged in 2024 and have been doing research
+lead of a new cyber R&D team. I was discharged in 2024 and have been researching
 full-time since.
