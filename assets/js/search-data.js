@@ -30,7 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/hobbies/";
           },
-        },{id: "news-honored-to-receive-the-clore-scholarship-for-exceptional-phd-students",
+        },{id: "news-received-the-nadav-scholarship-at-bar-ilan-university-as-the-sole-master-s-student-selected-for-exceptional-research",
+          title: 'Received the Nadav Scholarship at Bar-Ilan University, as the sole master’s student selected...',
+          description: "",
+          section: "News",},{id: "news-received-the-president-scholarship-for-outstanding-students-at-bar-ilan-university",
+          title: 'Received the President Scholarship for outstanding students at Bar-Ilan University.',
+          description: "",
+          section: "News",},{id: "news-honored-to-receive-the-clore-scholarship-for-exceptional-phd-students",
           title: 'Honored to receive the Clore Scholarship for exceptional PhD students.',
           description: "",
           section: "News",},{id: "news-new-approximate-distance-oracles-and-their-applications-won-the-best-paper-award-at-isaac-2025",
